@@ -1,5 +1,5 @@
 {
-  "name": "bitcore",
+  "name": "bitcore-gulden",
   "version": "3.0.0",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
@@ -75,13 +75,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/blieb/bitcore-gulden.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.12",
+    "blieb/bitcore-lib-gulden": "^0.13.12",
     "bitcore-node": "^2.0.0",
     "insight-api": "^0.3.2",
     "insight-ui": "^0.3.0"
