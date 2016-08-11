@@ -81,7 +81,7 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "blieb/bitcore-lib-gulden": "^0.13.12",
+    "git://github.com/blieb/bitcore-lib-gulden",
     "bitcore-node": "^2.0.0",
     "insight-api": "^0.3.2",
     "insight-ui": "^0.3.0"
